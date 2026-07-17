@@ -22,6 +22,35 @@ Education vs Income:
 
 This project includes a complete Exploratory Data Analysis with more than 20 visualizations and statistical analyses. The full EDA notebook is available in the repository.
 
+## Repository Contents
+
+Exploratory Data Analysis (EDA)
+
+- Missing value analysis
+- Univariate analysis
+- Bivariate analysis
+- Multivariate analysis
+- Correlation analysis
+- Data visualization
+
+Data Preprocessing
+
+- Missing value imputation
+- Feature engineering
+- Standardization
+- One-Hot Encoding
+- Train/Test Split
+- Pipeline creation
+
+Machine Learning
+
+- Logistic Regression
+- Decision Tree
+- Random Forest
+- Model comparison
+- Model evaluation
+
+
 ---
 
 ## Dataset
