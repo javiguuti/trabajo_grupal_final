@@ -21,18 +21,22 @@ Education vs Income:
 
 ## Dataset
 
-df = pd.read_csv("../data/income_data.csv")
-
 **Adult Income Dataset (UCI Machine Learning Repository)**
 
 - 48,842 observations
 - 15 original variables
 - Binary classification problem
 
+The notebooks use relative paths so that the project can be executed on any computer without modifying the source code.
+
+```python
+df = pd.read_csv("../data/income_data.csv")
+```
+
 ## Repository Contents
 The repository contains a complete Exploratory Data Analysis (EDA) with more than 20 visualizations and statistical analyses. The full notebook is available for review.
 
-Exploratory Data Analysis (EDA)
+### Exploratory Data Analysis (EDA)
 
 - Missing value analysis
 - Univariate analysis
@@ -41,7 +45,7 @@ Exploratory Data Analysis (EDA)
 - Correlation analysis
 - Data visualization
 
-Data Preprocessing
+### Data Preprocessing
 
 - Missing value imputation
 - Feature engineering
@@ -50,7 +54,7 @@ Data Preprocessing
 - Train/Test Split
 - Pipeline creation
 
-Machine Learning
+### Machine Learning
 
 - Logistic Regression
 - Decision Tree
@@ -89,6 +93,7 @@ I am a Data Science & Business Analytics undergraduate at ESIC University in Mad
 
 I am currently building my portfolio with projects in exploratory data analysis, machine learning and applied data science.
 My goal is to pursue a research-oriented Master's degree and contribute to interdisciplinary research projects as a Graduate Student Researcher (GSR).
+I am particularly interested in applying data science and machine learning to healthcare, agriculture and real-world decision-making problems.
 
 My research interests include:
 
@@ -97,8 +102,9 @@ My research interests include:
 - Business Analytics
 - Machine Learning
 
+## Connect with Me
 
-GitHub Profile:
+GitHub:
 https://github.com/javiguuti
 
 
