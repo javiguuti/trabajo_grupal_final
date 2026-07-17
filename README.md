@@ -50,7 +50,18 @@ Machine Learning
 - Model comparison
 - Model evaluation
 
+## About Me
 
+I am a Data Science & Business Analytics undergraduate at ESIC University in Madrid, Spain.
+
+I am currently building my portfolio with projects in exploratory data analysis, machine learning and applied data science.
+
+My research interests include:
+
+- Healthcare Data Science
+- Agricultural Data Science
+- Business Analytics
+- Machine Learning
 ---
 
 ## Dataset
