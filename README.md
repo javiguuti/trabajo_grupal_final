@@ -1,4 +1,4 @@
-# Adult Income Prediction using Machine Learning
+# Adult Income Classification using Machine Learning
 
 ## Overview
 
@@ -19,10 +19,16 @@ Education vs Income:
 
 <img width="1101" height="607" alt="image" src="https://github.com/user-attachments/assets/625bfe01-a0e4-42c6-ba7a-d5efb686f44b" />
 
+## Dataset
 
-This project includes a complete Exploratory Data Analysis with more than 20 visualizations and statistical analyses. The full EDA notebook is available in the repository.
+**Adult Income Dataset (UCI Machine Learning Repository)**
+
+- 48,842 observations
+- 15 original variables
+- Binary classification problem
 
 ## Repository Contents
+The repository contains a complete Exploratory Data Analysis (EDA) with more than 20 visualizations and statistical analyses. The full notebook is available for review.
 
 Exploratory Data Analysis (EDA)
 
@@ -80,6 +86,7 @@ The comparison of several classification algorithms illustrates how different mo
 I am a Data Science & Business Analytics undergraduate at ESIC University in Madrid, Spain.
 
 I am currently building my portfolio with projects in exploratory data analysis, machine learning and applied data science.
+My goal is to pursue a research-oriented Master's degree and contribute to interdisciplinary research projects as a Graduate Student Researcher (GSR).
 
 My research interests include:
 
@@ -87,7 +94,7 @@ My research interests include:
 - Agricultural Data Science
 - Business Analytics
 - Machine Learning
----
+
 
 GitHub Profile:
 https://github.com/javiguuti
