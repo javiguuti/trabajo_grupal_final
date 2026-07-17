@@ -50,6 +50,31 @@ Machine Learning
 - Model comparison
 - Model evaluation
 
+## Results
+
+Three classification models were trained and evaluated:
+
+- Logistic Regression
+- Decision Tree
+- Random Forest
+
+Model performance was assessed using:
+
+- Accuracy
+- Precision
+- Recall
+- F1-score
+- ROC-AUC
+- Confusion Matrix
+
+  ## Conclusions
+
+The project demonstrates a complete machine learning pipeline for binary income classification.
+
+The exploratory analysis revealed clear relationships between educational attainment and annual income, while multivariate analysis highlighted the importance of combining demographic and employment-related variables for prediction.
+
+The comparison of several classification algorithms illustrates how different models perform on the same dataset and emphasizes the importance of appropriate preprocessing and evaluation.
+
 ## About Me
 
 I am a Data Science & Business Analytics undergraduate at ESIC University in Madrid, Spain.
@@ -67,90 +92,6 @@ My research interests include:
 GitHub Profile:
 https://github.com/javiguuti
 
-## Dataset
-
-Adult Income Dataset
-
-- 48,842 observations
-- Demographic and employment variables
-- Binary classification problem
-
----
-
-## Objectives
-
-- Explore the dataset
-- Clean missing and duplicated data
-- Engineer new features
-- Build preprocessing pipelines
-- Train several classification models
-- Compare model performance
-
----
-
-## Technologies
-
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Scikit-learn
-- Joblib
-- GitHub
-
----
-
-## Machine Learning Workflow
-
-1. Data Cleaning
-
-2. Exploratory Data Analysis
-
-3. Feature Engineering
-
-4. Train/Test Split
-
-5. Data Preprocessing
-
-6. Model Training
-
-- Logistic Regression
-- Decision Tree
-- Random Forest
-
-7. Model Evaluation
-
-- Accuracy
-- Precision
-- Recall
-- F1-score
-- ROC-AUC
-- Confusion Matrix
-
----
-
-## Repository Structure
-
-```
-data/
-notebooks/
-models/
-README.md
-requirements.txt
-```
-
----
-
-## Future Improvements
-
-- Hyperparameter tuning
-- Cross-validation
-- Feature importance analysis
-- XGBoost implementation
-- Model explainability (SHAP)
-
----
 
 ## Author
 
