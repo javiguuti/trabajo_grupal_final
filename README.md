@@ -69,6 +69,8 @@ Three classification models were trained and evaluated:
 - Logistic Regression
 - Decision Tree
 - Random Forest
+  
+The Random Forest model achieved the best overall performance on this classification task.
 
 Model performance was assessed using:
 
@@ -78,6 +80,8 @@ Model performance was assessed using:
 - F1-score
 - ROC-AUC
 - Confusion Matrix
+
+
 
   ## Conclusions
 
