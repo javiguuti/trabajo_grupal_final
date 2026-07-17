@@ -4,7 +4,7 @@
 
 This project was developed as part of the Bachelor's Degree in Data Science & Business Analytics at ESIC University.
 
-The objective is to predict whether an individual's annual income exceeds $50K using demographic and employment-related variables.
+It follows a complete supervised machine learning workflow, from exploratory data analysis and preprocessing to model development and performance evaluation.
 
 The project includes:
 
