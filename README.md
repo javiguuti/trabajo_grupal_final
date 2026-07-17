@@ -21,6 +21,8 @@ Education vs Income:
 
 ## Dataset
 
+df = pd.read_csv("../data/income_data.csv")
+
 **Adult Income Dataset (UCI Machine Learning Repository)**
 
 - 48,842 observations
