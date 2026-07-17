@@ -15,14 +15,12 @@ The project includes:
 - Model comparison
 - Model evaluation
 
+Education vs Income:
 
 <img width="1101" height="607" alt="image" src="https://github.com/user-attachments/assets/625bfe01-a0e4-42c6-ba7a-d5efb686f44b" />
 
 
-<img width="850" height="545" alt="image" src="https://github.com/user-attachments/assets/ff92dc15-af74-45d2-92ba-f1aa8bc1a88e" />
-
-
-<img width="765" height="680" alt="image" src="https://github.com/user-attachments/assets/80d3b3bc-fecd-428a-a73a-401bfc619d79" />
+This project includes a complete Exploratory Data Analysis with more than 20 visualizations and statistical analyses. The full EDA notebook is available in the repository.
 
 ---
 
